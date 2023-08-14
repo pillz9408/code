@@ -1,0 +1,29 @@
+라벨미 형식
+
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "blood_car",
+      "points": [
+        [
+          404.375,
+          423.75
+        ],
+        [
+          1134.375,
+          967.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "blood_supply_0001.jpg",
+  "imageData": Null,
+  "imageHeight": 1080,
+  "imageWidth": 1920
+}

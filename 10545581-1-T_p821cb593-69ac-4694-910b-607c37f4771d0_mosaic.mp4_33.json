@@ -1,0 +1,44 @@
+{
+    "10545581-1-T_p821cb593-69ac-4694-910b-607c37f4771d0_mosaic.mp4_33.jpg364052": {
+        "size": 364052,
+        "filename": "10545581-1-T_p821cb593-69ac-4694-910b-607c37f4771d0_mosaic.mp4_33.jpg",
+        "regions": {
+            "0": {
+                "shape_attributes": {
+                    "name": "Rect",
+                    "x": 1,
+                    "y": 477,
+                    "width": 206,
+                    "height": 80
+                },
+                "region_attributes": {
+                    "class": "정상 차량(이륜차 포함)"
+                }
+            },
+            "1": {
+                "shape_attributes": {
+                    "name": "Rect",
+                    "x": 1073,
+                    "y": 461,
+                    "width": 227,
+                    "height": 94
+                },
+                "region_attributes": {
+                    "class": "정상 차량(이륜차 포함)"
+                }
+            },
+            "2": {
+                "shape_attributes": {
+                    "name": "Rect",
+                    "x": 677,
+                    "y": 458,
+                    "width": 73,
+                    "height": 142
+                },
+                "region_attributes": {
+                    "class": "정상 차량(이륜차 포함)"
+                }
+            }
+        }
+    }
+}

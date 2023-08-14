@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/Colab/yolov5/train
+val: /content/drive/MyDrive/Colab/yolov5/val
+test: /content/drive/MyDrive/Colab/yolov5/test
+nc: 6
+names: ["일반차량", "신호등", "ambulance", "police", "blood_car", "fire_engine"]
